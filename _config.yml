@@ -1,5 +1,7 @@
-title: Lilian C. Cheung
-description: GitHub Pages. Work in Progress.
+title:
+description: Hello World
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-slate
+plugins:
+  - jekyll-archives
