@@ -1,0 +1,6 @@
+# Next: http://www.lilianccheung.com/personal-blog/days-2-4-horse-gap-to-neels-gap
+
+# Images to rotate
+
+/assets/blog_images/hiking/at_2017_2019/georgia/day1/pack_weighing.JPG
+/assets/blog_images/hiking/at_2017_2019/georgia/day1/amicalola_falls.JPG

@@ -8,6 +8,12 @@
 	display:inline;
 }
 
+figcaption {
+  text-align: center;
+  font-size: smaller;
+  color: #757575;
+}
+
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
 	"syntax",
