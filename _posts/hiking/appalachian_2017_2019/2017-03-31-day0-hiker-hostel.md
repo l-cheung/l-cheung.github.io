@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hiker Hostel: 0"
+title:  "Hiker Hostel: Day 0"
 author: lilian
 categories: [ Hiking, Appalachian Trail ]
 image: assets/blog_images/hiking/at_2017_2019/georgia/day0/train_new_haven.JPG

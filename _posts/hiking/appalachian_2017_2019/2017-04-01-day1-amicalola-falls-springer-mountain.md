@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Amicalola & Springer Mountain: 1"
+title:  "Amicalola & Springer Mountain: Day 1"
 author: lilian
 categories: [ Hiking, Appalachian Trail ]
 image: assets/blog_images/hiking/at_2017_2019/georgia/day1/approach_trail.JPEG
