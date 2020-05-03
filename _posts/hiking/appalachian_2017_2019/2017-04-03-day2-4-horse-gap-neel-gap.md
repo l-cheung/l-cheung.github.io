@@ -2,7 +2,7 @@
 layout: post
 title:  "Horse Gap to Neel Gap: Days 2-4"
 author: lilian
-categories: [ Hiking, Appalachian Trail ]
+categories: [ Hiking, Appalachian Trail 2017-2019, Appalachian Trail Georgia ]
 image: assets/blog_images/hiking/at_2017_2019/georgia/day2-4/trail_magic_trailer.JPG
 
 ---
