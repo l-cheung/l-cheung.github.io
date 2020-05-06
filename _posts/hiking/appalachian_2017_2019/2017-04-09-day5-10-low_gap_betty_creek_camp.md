@@ -2,7 +2,7 @@
 layout: post
 title:  "Low Gap to Betty Creek Camp: Days 5-10"
 author: lilian
-categories: [ Hiking, Appalachian Trail 2017-2019, Appalachian Trail Georgia ]
+categories: [ Hiking, AT 2017-2019, AT Georgia, AT North Carolina ]
 image: assets/blog_images/hiking/at_2017_2019/georgia/day5-10/hitch_neel_gap.JPG
 
 ---
@@ -35,25 +35,33 @@ The day passes in a blur of trail magic, meeting other hikers, gathering firewoo
     <img src="{{site.baseurl}}/assets/blog_images/hiking/at_2017_2019/georgia/day5-10/halo_disciple.JPG"/>
 </figure>
 
->'m legally blind, and it's getting worse. I recognize postures and gaits, but I wouldn't recognize your face. I'd like to do it while I still can. I'd like to inspire people to get out there. Doesn't matter if you're overweight or have health problems. You shouldn't hide away."
+>I'm legally blind, and it's getting worse. I recognize postures and gaits, but I wouldn't recognize your face. I'd like to do it while I still can. I'd like to inspire people to get out there. Doesn't matter if you're overweight or have health problems. You shouldn't hide away."
 >
 >⁃    Disciple, NOBO thru-hiker
 
 <figure>
     <img src="{{site.baseurl}}/assets/blog_images/hiking/at_2017_2019/georgia/day5-10/sunkist.JPG"/>
-    <figcaption> Sunkist trail magic </figcaption>
 </figure>
 
 <figure>
     <img src="{{site.baseurl}}/assets/blog_images/hiking/at_2017_2019/georgia/day5-10/shelter.JPG"/>
-    <figcaption> Low Gap Shelter </figcaption>
+    <figcaption>Low Gap Shelter </figcaption>
 </figure>
 
 >"Being the youngest of five has advantages and disadvantages. For the longest time, I thought rhinos weren't real. My brothers convinced me that rhinos were like unicorns. They were like, 'You know all those pictures in your textbooks? They're lying to you. That's what the government wants you to believe.' I was like, 'Woah.' So when I saw a rhino in a zoo for the first time - this was, like, the end of high school - it was as if I had seen a unicorn in real life."
 >
 >⁃    Missionary, NOBO thru-hiker
 
+<figure>
+    <img src="{{site.baseurl}}/assets/blog_images/hiking/at_2017_2019/georgia/day5-10/shelter_in_rain.JPEG"/>
+</figure>
+
 The mild weather does not last. Morning brings a steady cold rain mixed with occasional thunder. Many hikers, burrowed into their sleeping bags, wait out the rain in crowded shelters. Some head into the nearby town of Helen. Pushing on, I meet a former investment banker: Little Prince. 
+
+<figure>
+    <img src="{{site.baseurl}}/assets/blog_images/hiking/at_2017_2019/georgia/day5-10/dinner_rain.JPG"/>
+    <figcaption>Little Prince</figcaption>
+</figure>
 
 "Got any good stories?" he asks me. "I like getting people's stories."
 
@@ -69,9 +77,22 @@ Small pellets of hail pelt me across the face as I prepare breakfast the next mo
 
 It's a relief to reach the hostel and get some reprieve from the mix of hail, sleet, and snow outside. First order of business: hot chocolate. Then, a shower. A few folks from the Hiker Hostel also stay the night. We head to the local buffet, and play a round of scrabble before bed.
 
+<figure>
+    <img src="{{site.baseurl}}/assets/blog_images/hiking/at_2017_2019/georgia/day5-10/top_of_georgia_hostel.JPG"/>
+</figure>
+
+<figure>
+    <img src="{{site.baseurl}}/assets/blog_images/hiking/at_2017_2019/georgia/day5-10/top_of_georgia_bunks.JPG"/>
+</figure>
+
 5:38 am. Time to sneak in one last shower before the other hikers wake: some 20+ hikers share the same bathroom. Sir-Packs-A-Lot delivers his daily spiel during the complementary all-you-can-eat-cereal breakfast. "25% of people quit by the time they get here," he says, highlighting the Hostel on a map of the Appalachian Trail painted on the wall. "50% quit by Hot Springs." 
 
 Hot Springs is north of here, in North Carolina.
+
+<figure>
+    <img src="{{site.baseurl}}/assets/blog_images/hiking/at_2017_2019/georgia/day5-10/top_of_georgia_main_room.JPG"/>
+    <figcaption>Hostel life: Main room at Top of Georgia</figcaption> 
+</figure>
 
 >"The seniors have got an advantage because they know what it's like to have a long term commitment - to have a job with an asshole of a boss for 20 years, to be in a marriage that is sometimes difficult - but they need the young kids, too, to inspire them: to remind them of what they were like at 22.
 >
@@ -79,11 +100,19 @@ Hot Springs is north of here, in North Carolina.
 >
 >⁃    Sir-Packs-A-Lot, owner of the Top of Georgia Hostel
 
-After taking an easy day into Plumorchard Shelter - the IT band in my leg bothers me a bit - I cross the GA/NC border on my 9th day. Though the day is warm, a sprinkling of snow still covers the ground in some areas. As I hike, two dayhikers pass by in the opposite direction.
+I cross the GA/NC border on my 9th day. Though the day is warm, a sprinkling of snow still covers the ground in some areas. As I hike, two dayhikers pass by in the opposite direction.
+
+<figure>
+    <img src="{{site.baseurl}}/assets/blog_images/hiking/at_2017_2019/north_carolina_tennessee/day11-12/into_nc.JPG"/>
+</figure>
+
+<figure>
+    <img src="{{site.baseurl}}/assets/blog_images/hiking/at_2017_2019/north_carolina_tennessee/day11-12/snow_dust.JPG"/>
+</figure>
 
 "You've got some trail magic coming up in 6 miles. At Deep Gap!" they shout.
 
-I thank them and hurry on. A couple miles from Deep Gap, I run into the backpacker I met on the train. I rack my mind for his name. Something like...Doug...Fart?
+I thank them and hurry on. A couple miles from Deep Gap, I run into a backpacker I met on the train to Georgia. I rack my mind for his name. Something like...Doug...Fart?
 
 "Can I just call you...Doug?" I ask. I'm not too keen on accidentally calling someone 'Fart.'
 
@@ -93,6 +122,10 @@ I thank them and hurry on. A couple miles from Deep Gap, I run into the backpack
 
 "It's a drink. Back when the trail started, no one knew what it was. I had to show them how to make it. Next time I went back, I told them I was the one who showed them how to make the drink, and they said, 'Oh - Duck Fart!'"
 
+<figure>
+    <img src="{{site.baseurl}}/assets/blog_images/hiking/at_2017_2019/north_carolina_tennessee/day11-12/duck_fart.JPG"/>
+    <figcaption>Shirt is self-explanatory</figcaption>
+</figure>
 
 >"Last time I came down to Deep Gap was with a friend. We were planning on doing trail magic, but these other guys were there. So, we set up camp and sat around the campfire. 
 >
@@ -121,6 +154,12 @@ I thank them and hurry on. A couple miles from Deep Gap, I run into the backpack
 That afternoon, I indulge in trail magic from a couple of former thru-hikers: Red Truck and Green Truck. Hotdogs, barbecue pork, cantaloupe, peach crumble - what more could a thru-hiker ask for?
 
 My pack feels light the next morning: I am just a day from my next resupply location in Franklin, NC, and I have eaten almost all the food in my food bag. After heading to Betty Creek, I camp with Good Times, Heinz, and Diesel.
+
+<figure>
+    <img src="{{site.baseurl}}/assets/blog_images/hiking/at_2017_2019/north_carolina_tennessee/day11-12/betty_creek.JPG"/>
+    <figcaption>Betty Creek</figcaption>
+</figure>
+
 
 >"Good times - I always look like I'm having a good time."
 >

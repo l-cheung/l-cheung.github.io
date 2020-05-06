@@ -7,6 +7,10 @@
 /assets/blog_images/hiking/at_2017_2019/georgia/day1/amicalola_falls.JPG
 /assets/blog_images/hiking/at_2017_2019/georgia/day5-10/hitch_neel_gap.JPG
 /assets/blog_images/hiking/at_2017_2019/georgia/day5-10/sunkist.JPG
+/assets/blog_images/hiking/at_2017_2019/georgia/day5-10/halo_disciple.JPG
+/assets/blog_images/hiking/at_2017_2019/georgia/day5-10/top_of_georgia_hostel.JPG
+/assets/blog_images/hiking/at_2017_2019/georgia/day5-10/dinner_rain.JPG
 
 # Horizontal and upside down
 /assets/blog_images/hiking/at_2017_2019/georgia/day2-4/pizza_town.JPG
+/assets/blog_images/hiking/at_2017_2019/georgia/day5-10/into_nc.JPG

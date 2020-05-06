@@ -2,7 +2,7 @@
 layout: post
 title:  "Amicalola & Springer Mountain: Day 1"
 author: lilian
-categories: [ Hiking, Appalachian Trail 2017-2019, Appalachian Trail Georgia ]
+categories: [ Hiking, AT 2017-2019, AT Georgia ]
 image: assets/blog_images/hiking/at_2017_2019/georgia/day1/approach_trail.JPEG
 
 ---
