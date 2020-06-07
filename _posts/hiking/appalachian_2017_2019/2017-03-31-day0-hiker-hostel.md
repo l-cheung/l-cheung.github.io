@@ -2,6 +2,8 @@
 layout: post
 title:  "Hiker Hostel: Day 0"
 author: lilian
+featured: true
+comments: false
 categories: [ Hiking, AT 2017-2019, AT Georgia ]
 image: assets/blog_images/hiking/at_2017_2019/georgia/day0/train_new_haven.JPG
 

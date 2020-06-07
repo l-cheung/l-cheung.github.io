@@ -2,6 +2,7 @@
 layout: post
 title:  "Winding Stair Gap to Fontana Dam: Days 13-17"
 author: lilian
+comments: false
 categories: [ Hiking, AT 2017-2019, AT North Carolina ]
 image: assets/blog_images/hiking/at_2017_2019/north_carolina_tennessee/day11-12/sunrise_albert.JPG
 
