@@ -2,6 +2,7 @@
 layout: post
 title:  "Low Gap to Betty Creek Camp: Days 5-10"
 author: lilian
+comments: false
 categories: [ Hiking, AT 2017-2019, AT Georgia, AT North Carolina ]
 image: assets/blog_images/hiking/at_2017_2019/georgia/day5-10/hitch_neel_gap.JPG
 

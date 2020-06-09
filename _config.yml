@@ -6,7 +6,7 @@ logo: 'assets/images/mountain_logo.svg'
 favicon: 'assets/images/mountain_logo.svg'
 baseurl:
 #google_analytics: 'UA-46278016-1'
-#disqus: 'demowebsite'
+#disqus: 'disqus_id'
 include: ["_pages"]
 permalink: /:title/
 
@@ -17,6 +17,7 @@ authors:
     display_name: Lil
     avatar: 'assets/images/self_vector.png'
     web: https://www.lilianccheung.com
+    description: 'Hello'
 
 # Plugins
 plugins:
@@ -25,7 +26,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-archives
-    
+
 # Archives
 jekyll-archives:
   enabled:
@@ -33,11 +34,11 @@ jekyll-archives:
   layout: archive
   permalinks:
     category: '/category/:name/'
-    
-# Pagination 
+
+# Pagination
 paginate: 6
 paginate_path: /page:num/
-    
+
 # Other
 markdown: kramdown
 

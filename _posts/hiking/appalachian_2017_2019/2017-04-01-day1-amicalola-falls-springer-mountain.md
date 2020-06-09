@@ -2,6 +2,7 @@
 layout: post
 title:  "Amicalola & Springer Mountain: Day 1"
 author: lilian
+comments: false
 categories: [ Hiking, AT 2017-2019, AT Georgia ]
 image: assets/blog_images/hiking/at_2017_2019/georgia/day1/approach_trail.JPEG
 
@@ -33,23 +34,23 @@ I hoist my pack onto the pack scale, note down the weight (36 lbs), and pass thr
     <figcaption>Amicalola Falls</figcaption>
 </figure>
 
-A couple hikers are already there: John, a former Peace Corps member and art major who now works in software, and Chris, an analyst.
+A couple hikers are already there: Matt, a former Peace Corps member and art major who now works in software, and Tom, an analyst.
 
 >I'm glad I did my art degree. I use it every day. It makes me appreciate the beauty in everything."
 >
->⁃ John, NOBO thru-hiker
+>⁃ Matt, NOBO thru-hiker
 
-Curious about being an analyst, I grill Chris about his job.
+Curious about being an analyst, I grill Tom about his job.
 
-"You'll need to know R or Python," Chris tells me. "Most jobs, if you need to do something, you'll learn how to do it."
+"You'll need to know R or Python," Tom tells me. "Most jobs, if you need to do something, you'll learn how to do it."
 
 "How much of what you needed to know did you learn in school versus on the job?" I ask.
 
 "Mostly I learned on the job."
 
-The conversation turns to websites. "I own tomesofgarbage.com," John says.
+The conversation turns to websites. "I own tomesofgarbage.com," Matt says.
 
-"What's that?" Chris asks.
+"What's that?" Tom asks.
 
 "Nothing, yet. It's supposed to be a collection of love notes. It started as a conversation between me and a friend. We were talking about love notes, and I said, 'That's all just tomes of garbage.'"
 

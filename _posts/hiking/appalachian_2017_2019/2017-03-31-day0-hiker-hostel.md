@@ -32,13 +32,13 @@ We pull into the Hiker Hostel in the midst of a flurry of activity. Hikers are e
 >
 > ⁃ Leigh, a founder of the Hiker Hostel
 
-I spend the morning walking around, checking out the 'tiny house' cabins, and playing with Maggie, the hostel dog. Around noon, hikers begin pouring in: Gabriel, Molly, Jasper, Hazel and Ida...
+I spend the morning walking around, checking out the 'tiny house' cabins, and playing with Maggie, the hostel dog. Around noon, hikers begin pouring in: Joe, Nick, Annie, Jesper and Ida...
 
 <img src = "{{ site.baseurl }}/assets/blog_images/hiking/at_2017_2019/georgia/day0/prior_year_hikers.JPEG" alt = "Hikers from Previous Years" />
 
 > "I worked in Silicon Valley for five years. Lost a lot, gained a lot. My story is more complicated than that, but I really want this to be a success story."
 > 
-> ⁃ Gabriel, NOBO hiker
+> ⁃ Joe, NOBO hiker
 
 That evening, we all relax around a fire pit, basking in one last warm night of comfort before starting our journeys. All too soon, the sun rises, and we grab breakfast, pack up, and head out into the woods.
 

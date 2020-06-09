@@ -2,6 +2,7 @@
 layout: post
 title:  "Horse Gap to Neel Gap: Days 2-4"
 author: lilian
+comments: false
 categories: [ Hiking, AT 2017-2019, AT Georgia ]
 image: assets/blog_images/hiking/at_2017_2019/georgia/day2-4/trail_magic_trailer.JPG
 
@@ -39,23 +40,23 @@ That night, I camp at a road crossing near hikers Sisu and Chief.
 >
 >⁃    Sisu, section hiker
 
-I head out early in the morning, only stopping to eat breakfast when I reach the next shelter. The hikers who stayed at the shelter begin filing out. I spot a familiar face from the hiker hostel: Tony, a black man at least 6 ft tall sporting the beginnings of a salt and pepper beard.
+I head out early in the morning, only stopping to eat breakfast when I reach the next shelter. The hikers who stayed at the shelter begin filing out. I spot a familiar face from the hiker hostel: Timothy, a black man at least 6 ft tall sporting the beginnings of a salt and pepper beard.
  
 I camp at Lance Creek with couple dozen hikers. News about an incoming storm circulates around the group. 
 
 "If we get up early, we can hike into Neels Gap before the storm hits," one person says.
 
-"Do you want to hike out early?" I ask Tony. 
+"Do you want to hike out early?" I ask Timothy. 
 
 "Sounds like a plan," he replies.
 
 >"I've biked across country twice."
 >
->⁃    Tony 'Snapp,' NOBO thru-hiker
+>⁃    Timothy 'Snapp,' NOBO thru-hiker
 
 I awake to muffled voices and dim headlights shining through my tent. What on earth? I check my watch. 3:30 am. Unzipping my tent fly, I find that the whole row of tents has disappeared. *Woah, they're really early,* I think. 
 
-Tony, a woman named Saoirse, and I head out at 5:00 am. Our headlamps barely cut through the fog to illuminate the road ahead. By the time we reach Blood Mountain, torrents of rain pour down in sporadic bursts, soaking through my clothes and boots. Tony stays behind to wait out the storm. 
+Timothy, a woman named Saskia, and I head out at 5:00 am. Our headlamps barely cut through the fog to illuminate the road ahead. By the time we reach Blood Mountain, torrents of rain pour down in sporadic bursts, soaking through my clothes and boots. Timothy stays behind to wait out the storm. 
 
 <figure>
     <img src="{{site.baseurl}}/assets/blog_images/hiking/at_2017_2019/georgia/day2-4/blood_mt_sign.JPEG"/>
@@ -74,7 +75,7 @@ Mountain Crossings, an outfitter and hostel, lies only miles ahead. I eagerly an
     <img src="{{site.baseurl}}/assets/blog_images/hiking/at_2017_2019/georgia/day2-4/rain_fog_silas.JPEG"/>
 </figure>
 
-He introduces himself as Elias: trail name Missionary. As we cross the summit, thunder rumbles in the distance. We exchange wide-eyed glances. "I'm glad I'm not on the summit," I say.
+He introduces himself as Silas: trail name Missionary. As we cross the summit, thunder rumbles in the distance. We exchange wide-eyed glances. "I'm glad I'm not on the summit," I say.
 
 >"I told someone that I was here for spiritual enlightenment, to feel close to creation."
 >

@@ -2,15 +2,16 @@
 layout: post
 title:  "Winding Stair Gap to Franklin, NC: Days 11-12"
 author: lilian
+comments: false
 categories: [ Hiking, AT 2017-2019, AT North Carolina ]
-image: assets/blog_images/hiking/at_2017_2019/north_carolina_tennessee/day11-12/sunrise_albert.JPG
+image: assets/blog_images/hiking/at_2017_2019/north_carolina_tennessee/day11-12/rhododendron.JPG
 
 ---
 
 A fire tower lies directly ahead atop Albert Mountain. As I climb up a winding passage lined with rhododendron, I catch a glimpse of dawn through a break in the foliage. I can't help but pause, taking in the pastel colors splashed across the sky.
 
 <figure>
-    <img src="{{site.baseurl}}/assets/blog_images/hiking/at_2017_2019/north_carolina_tennessee/day11-12/rhododendron.JPG"/>
+    <img src="{{site.baseurl}}/assets/blog_images/hiking/at_2017_2019/north_carolina_tennessee/day11-12/sunrise_albert.JPG"/>
 </figure>
 
 <figure>
@@ -63,7 +64,7 @@ That night, Missionary and I find ourselves wondering where our Neel Gap neighbo
 
 "I think they're behind us -- they all got off at Unicoi," I say.
 
-"Someone said John was here yesterday," Missionary replies. He pauses. "John's really wise. He says really deep things. Like, the other day, he said, 'Hating someone is like drinking poison and waiting for the other guy to die.'"
+"Someone said Matt was here yesterday," Missionary replies. He pauses. "Matt's really wise. He says really deep things. Like, the other day, he said, 'Hating someone is like drinking poison and waiting for the other guy to die.'"
 
 >"There are some who say man is the sum of his adventures."
 >
@@ -103,9 +104,9 @@ Missionary and I decide to give it a day to see if the trail opens back up. *I d
 
 "The trail knows best," Missionary says as we reserve our bunks for another night.
 
-A few minutes later, a full shuttle of hikers pulls in. As the hikers step out, looking rather tired and unkempt, we spot several familiar faces. John. Chris. Our gang from Neel Gap. 
+A few minutes later, a full shuttle of hikers pulls in. As the hikers step out, looking rather tired and unkempt, we spot several familiar faces. Matt. Tom. Our gang from Neel Gap. 
 
-That afternoon, we all head down to the local hiker bar: The Lazy Hiker, featuring specialty beers like the Slack Pack, Trail Mate, and Twentymiler IPA. We run into at least twenty other hikers, including some from the Hiker Hostel. Chris orders a flight of beers. Tony signs me up for a ping pong tournament, in which I lose spectacularly to Little Prince, but win a consolation glass of beer. After trying a few beer samples, I order a hazelnut one.
+That afternoon, we all head down to the local hiker bar: The Lazy Hiker, featuring specialty beers like the Slack Pack, Trail Mate, and Twentymiler IPA. We run into at least twenty other hikers, including some from the Hiker Hostel. Tom orders a flight of beers. Tony signs me up for a ping pong tournament, in which I lose spectacularly to Little Prince, but win a consolation glass of beer. After trying a few beer samples, I order a hazelnut one.
 
 <figure>
     <img src="{{site.baseurl}}/assets/blog_images/hiking/at_2017_2019/north_carolina_tennessee/day11-12/franklin_pub.JPG"/>
