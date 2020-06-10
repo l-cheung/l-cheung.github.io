@@ -8,7 +8,7 @@ image: assets/blog_images/hiking/at_2017_2019/north_carolina_tennessee/day13-17/
 
 ---
 
-News spreads that the Winding Stair Gap fires are contained and the trail is open! Ron Haven shuttles Silas and I to Winding Stair Gap at 9:00 am. 
+News spreads that the Winding Stair Gap fires are contained and the trail is open! Ron Haven shuttles me and Silas to Winding Stair Gap at 9:00 am. 
 
 "There's some rangers with some food and stuff for y'all up at the bald," a dayhiker tells us.
 
@@ -48,7 +48,7 @@ Tom and I glance at each other.
 
 "That's a gross misunderstanding of probability," Tom says.
 
-I can't help but chime in. "He's assuming we're all acting independently. But we're not. We're interdependent."
+I can't help but chime in. "That assumes we're all acting independently. But we're not." We're interdependent: hikers helping hikers.
 
 We trade stories. We laugh. Matt puts on a green baseball cap, sticks a finger in his mouth, and blows. The cap pops off his head. Silas looks on in amazement.
 
@@ -157,7 +157,7 @@ I pick out a small black pebble and put it in my pack.
     <img src="{{site.baseurl}}/assets/blog_images/hiking/at_2017_2019/north_carolina_tennessee/day13-17/paved.JPG"/>
 </figure>
 
-The trail runs straight through Fontana Dam, the gateway to the Smokies, famous for the 'Fontana Hilton' shelter. Where most of the shelters on trail are 3-sided wooden structures with pit privies, the Hilton features hot showers and toilets in a nearby bathhouse. At least 40 tents dot the surrounding area. A few groups pitch in to order several stacks of local pizza. 
+The trail runs straight through Fontana Dam, the gateway to the Smokies, famous for the 'Fontana Hilton' shelter. Where most of the shelters on trail are 3-sided wooden structures with pit privies, the Hilton features hot showers and toilets in a nearby bathhouse. At least 40 tents dot the surrounding area. A few groups pitch in to order several stacks of local pizza. I join the hikers lining up to grab a slice.
 
 <figure>
     <img src="{{site.baseurl}}/assets/blog_images/hiking/at_2017_2019/north_carolina_tennessee/day13-17/fontana_hilton.JPG"/>
@@ -171,4 +171,4 @@ The trail runs straight through Fontana Dam, the gateway to the Smokies, famous 
     <img src="{{site.baseurl}}/assets/blog_images/hiking/at_2017_2019/north_carolina_tennessee/day13-17/fontana_pizza.JPG"/>
 </figure>
 
-I enjoy one more shower and share one more night with the trail crew. The Smokies lie just ahead.
+One more shower and one more night with the trail crew: The Smokies lie just ahead.
