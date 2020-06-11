@@ -18,11 +18,25 @@ Early in the morning, Silas and I cross the Fontana Dam in Fontana Dam.
 >
 >⁃ Silas
 
-We enter the Smoky Mountains less than a mile outside town, depositing our permits in the thru-hiker registration box. As we hike up, we pass a couple section hikers, one of whom introduces himself as Toe. He gestures to his necklace. "It's my toe."
+We enter the Smoky Mountains less than a mile outside town, depositing our permits in the thru-hiker registration box.
+
+<figure>
+    <img src="{{site.baseurl}}/assets/blog_images/hiking/at_2017_2019/north_carolina_tennessee/day18-23/silas_smokies_start.JPG"/>
+</figure>
+
+<figure>
+    <img src="{{site.baseurl}}/assets/blog_images/hiking/at_2017_2019/north_carolina_tennessee/day18-23/view.JPEG"/>
+</figure>
+
+As we hike up, we pass a couple section hikers, one of whom introduces himself as Toe. He gestures to his necklace. "It's my toe."
 
 From afar, the necklace looks like a pinkish yellow rock tied to a string.
 
 "No way," Silas says.
+
+<figure>
+    <img src="{{site.baseurl}}/assets/blog_images/hiking/at_2017_2019/north_carolina_tennessee/day18-23/toe.JPG"/>
+</figure>
 
 We meet Toe again when we stop for lunch at a rickety old fire tower that sways in the wind.
 
@@ -46,9 +60,29 @@ We meet Toe again when we stop for lunch at a rickety old fire tower that sways 
 
 When we reach Mollies Ridge Shelter, the first shelter of the Smokies, rain begins pouring down. I decide to stay; Silas pushes on to meet up with the rest of the group. A sign at the shelter helpfully points to water on one side, and the 'toilet area' down a minefield of a hill on the other.
 
-I wake up to find a tent set up smack o the middle of the toilet area. Interesting choice of a spot, I think.
+<figure>
+    <img src="{{site.baseurl}}/assets/blog_images/hiking/at_2017_2019/north_carolina_tennessee/day18-23/rainy_pack_wall.JPG"/>
+</figure>
+
+<figure>
+    <img src="{{site.baseurl}}/assets/blog_images/hiking/at_2017_2019/north_carolina_tennessee/day18-23/shelter_graffiti.JPG"/>
+</figure>
+
+I wake up to find a tent set up smack o the middle of the toilet area. *Interesting choice of a spot,* I think.
 
 I hike alone through muddy trails in steady rain and fog. Ian passes me early in the day, slipping and sliding down the slopes.
+
+<figure>
+    <img src="{{site.baseurl}}/assets/blog_images/hiking/at_2017_2019/north_carolina_tennessee/day18-23/foggy.JPG"/>
+</figure>
+
+<figure>
+    <img src="{{site.baseurl}}/assets/blog_images/hiking/at_2017_2019/north_carolina_tennessee/day18-23/foggy_2.JPG"/>
+</figure>
+
+<figure>
+    <img src="{{site.baseurl}}/assets/blog_images/hiking/at_2017_2019/north_carolina_tennessee/day18-23/foggy_3.JPG"/>
+</figure>
 
 "The trail is actively trying to kill me today!" he shouts over his shoulder.
 
@@ -57,6 +91,10 @@ By the time I arrive at the shelter, all my belongings are wet. A tarp covers th
 A drizzly rain continues into the next day, shrouding the Smokies in a dense white mist. Moss carpets the forest floor. Clingman's Dome, the highest point on the Appalachian Trail, lies ahead. I cross my fingers for a view.
 
 That day, I hike with two section hikers: Steve, a concrete foreman, and Luke, who works with pipes.
+
+<figure>
+    <img src="{{site.baseurl}}/assets/blog_images/hiking/at_2017_2019/north_carolina_tennessee/day18-23/steve.JPG"/>
+</figure>
 
 "What is the most valuable lesson you've learned at work?" I ask, curious about their careers.
 
@@ -68,13 +106,29 @@ That day, I hike with two section hikers: Steve, a concrete foreman, and Luke, w
 >
 >⁃ Steve, section hiker
 
-The view from Clingman's Dome reveals is just a gray backdrop, but the sun comes out just long enough for us to see a bit of the Smokies when we get down.
+<figure>
+    <img src="{{site.baseurl}}/assets/blog_images/hiking/at_2017_2019/north_carolina_tennessee/day18-23/me_smokies.JPG"/>
+</figure>
+
+The view from Clingman's Dome is just a gray backdrop, but the sun comes out just long enough for us to see a bit of the Smokies when we get down.
+
+<figure>
+    <img src="{{site.baseurl}}/assets/blog_images/hiking/at_2017_2019/north_carolina_tennessee/day18-23/me_clingmans.JPEG"/>
+</figure>
+
+<figure>
+    <img src="{{site.baseurl}}/assets/blog_images/hiking/at_2017_2019/north_carolina_tennessee/day18-23/clingmans_fog.JPEG"/>
+</figure>
 
 "I think we're getting close," Steve says.
 
 "It should be downhill from here," I note.
 
 "Doubt it!" Luke shouts from behind.
+
+<figure>
+    <img src="{{site.baseurl}}/assets/blog_images/hiking/at_2017_2019/north_carolina_tennessee/day18-23/luke.JPG"/>
+</figure>
 
 I laugh. We end up climbing another small hill before reaching the shelter. An hour after we arrive, rain begins pouring down again. As everyone cooks dinner, Steve walks around from the back of the shelter.
 
@@ -86,9 +140,39 @@ Someone goes to wake the tent owner. "Well, he knows about the squirrel now."
 
 After several straight days of rain, my socks, boots, and pack seem perpetually damp. The smell of wet feet lingers in my clothes, in the shelters, and in the air. I ignore it.
 
+<figure>
+    <img src="{{site.baseurl}}/assets/blog_images/hiking/at_2017_2019/north_carolina_tennessee/day18-23/200_miles.JPG"/>
+</figure>
+
 A wooden sign marks the North Carolina - Tennessee border at Newfound Gap. Tourists and dayhikers are everywhere, photographing the scenery. I join the crowds, feeling slightly out of place, and eat my lunch. Several people glance curiously at me.
 
+<figure>
+    <img src="{{site.baseurl}}/assets/blog_images/hiking/at_2017_2019/north_carolina_tennessee/day18-23/tn_nc.JPG"/>
+</figure>
+
+<figure>
+    <img src="{{site.baseurl}}/assets/blog_images/hiking/at_2017_2019/north_carolina_tennessee/day18-23/newfound_gap.JPG"/>
+</figure>
+
+<figure>
+    <img src="{{site.baseurl}}/assets/blog_images/hiking/at_2017_2019/north_carolina_tennessee/day18-23/trail_after_newfound_gap.JPG"/>
+</figure>
+
+
 By early afternoon, the rain clears out, allowing me to enjoy the view at Charlie's Bunion.
+
+<figure>
+    <img src="{{site.baseurl}}/assets/blog_images/hiking/at_2017_2019/north_carolina_tennessee/day18-23/charles_bunion.JPG"/>
+</figure>
+
+<figure>
+    <img src="{{site.baseurl}}/assets/blog_images/hiking/at_2017_2019/north_carolina_tennessee/day18-23/charles_bunion_children.JPG"/>
+</figure>
+
+<figure>
+    <img src="{{site.baseurl}}/assets/blog_images/hiking/at_2017_2019/north_carolina_tennessee/day18-23/charles_bunion_view.JPG"/>
+</figure>
+
 
 After 14-15 miles, the IT band running down the side of my knee begins to ache. In the last couple miles to the shelter, my knee gives out on me several times. Maybe I'll take it easy tomorrow, I think.
 
@@ -114,6 +198,10 @@ I decide to stay, rest my knee, and see if the trail crew shows up.
 >
 >⁃ Chloe, ridgerunner
 
+<figure>
+    <img src="{{site.baseurl}}/assets/blog_images/hiking/at_2017_2019/north_carolina_tennessee/day18-23/trail_moss.JPG"/>
+</figure>
+
 After finishing lunch, Chloe runs over to the fire pit. She makes a disgusted face as she contemplates the pile of cigarette butts in the ashes. "People suck," she mutters.
 
 I can't help but think the same thing when I pull half-decomposed toilet paper out of a hollowed tree trunk while helping her clean up after lunch.
@@ -126,6 +214,18 @@ We all sit on logs around the fire pit for dinner during a brief respite in the 
 >
 >⁃ Silas 
 
+<figure>
+    <img src="{{site.baseurl}}/assets/blog_images/hiking/at_2017_2019/north_carolina_tennessee/day18-23/camp.JPG"/>
+</figure>
+
+<figure>
+    <img src="{{site.baseurl}}/assets/blog_images/hiking/at_2017_2019/north_carolina_tennessee/day18-23/bear_lines.JPG"/>
+</figure>
+
+<figure>
+    <img src="{{site.baseurl}}/assets/blog_images/hiking/at_2017_2019/north_carolina_tennessee/day18-23/trail_moss_3.JPG"/>
+</figure>
+
 "Cheese and pepper flakes makes ramen a gourmet meal," Carter says, stirring his pot. "Out here, at least."
 
 "Where are y'all headed tomorrow?" I ask.
@@ -137,6 +237,21 @@ We all sit on logs around the fire pit for dinner during a brief respite in the 
 The 17 miles downhill fly by the next day. My IT band feels much better after a night of rest, and the rain holds off for most of the day. A sense of accomplishment rushes through me as I cross the northern border of the Smokies. That night, I camp with the trail crew on the side of a stream, about a mile from Standing Bear Hostel.
 
 <figure>
-    <img src="{{site.baseurl}}/assets/blog_images/hiking/at_2017_2019/north_carolina_tennessee/day13-17/trail_magic.JPG"/>
+    <img src="{{site.baseurl}}/assets/blog_images/hiking/at_2017_2019/north_carolina_tennessee/day18-23/smokies_end.JPG"/>
 </figure>
 
+<figure>
+    <img src="{{site.baseurl}}/assets/blog_images/hiking/at_2017_2019/north_carolina_tennessee/day18-23/IMG_5382.JPG"/>
+</figure>
+
+<figure>
+    <img src="{{site.baseurl}}/assets/blog_images/hiking/at_2017_2019/north_carolina_tennessee/day18-23/IMG_5383.JPG"/>
+</figure>
+
+<figure>
+    <img src="{{site.baseurl}}/assets/blog_images/hiking/at_2017_2019/north_carolina_tennessee/day18-23/IMG_5400.JPEG"/>
+</figure>
+
+<figure>
+    <img src="{{site.baseurl}}/assets/blog_images/hiking/at_2017_2019/north_carolina_tennessee/day18-23/view_3.JPG"/>
+</figure>
