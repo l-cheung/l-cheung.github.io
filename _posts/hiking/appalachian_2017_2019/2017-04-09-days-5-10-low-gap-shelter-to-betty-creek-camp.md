@@ -152,9 +152,9 @@ I thank them and hurry on. A couple miles from Deep Gap, I run into a backpacker
 >
 ⁃    Duck Fart, section hiker
 
-That afternoon, I indulge in trail magic from a couple of former thru-hikers: Red Truck and Green Truck. Hotdogs, barbecue pork, cantaloupe, peach crumble - what more could a thru-hiker ask for?
+That afternoon, I indulge in trail magic from a couple of former thru-hikers: Red Truck and Green Truck. Hotdogs, barbecue pork, cantaloupe, peach crumble - what more could a hiker ask for?
 
-My pack feels light the next morning: I am just a day from my next resupply location in Franklin, NC, and I have eaten almost all the food in my food bag. After heading to Betty Creek, I camp with Good Times, Heinz, and Diesel.
+My pack feels light the next morning: I am just a day from my next resupply location in Franklin, NC, and I have eaten almost all the food in my food bag. Long distance hikers must plan out resupply options along their treks, either by mailing food to post offices and hotels, or visiting gas stations and grocery stores in town. After heading to Betty Creek, I camp with Good Times, Heinz, and Diesel.
 
 <figure>
     <img src="{{site.baseurl}}/assets/blog_images/hiking/at_2017_2019/north_carolina_tennessee/day11-12/betty_creek.JPG"/>

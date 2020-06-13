@@ -8,9 +8,9 @@ image: assets/blog_images/hiking/at_2017_2019/north_carolina_tennessee/day18-23/
 
 ---
 
-Early in the morning, Silas and I cross the Fontana Dam in Fontana Dam.
+There is a brief roadwalk from the Fontana Hilton, across the dam, and into the surrounding woods before the official start of the Smoky Mountains. 
 
-"I wonder what it would be like to grow up in this town," Silas says. "They must hear so many dam jokes."
+"I wonder what it would be like to grow up in this town," Silas says as we cross. "They must hear so many dam jokes."
 
 "One of the locals said she was 7 when the Dam was built. She said she was one of the Dam kids. She went to the Dam school."
 
@@ -18,7 +18,7 @@ Early in the morning, Silas and I cross the Fontana Dam in Fontana Dam.
 >
 >⁃ Silas
 
-We enter the Smoky Mountains less than a mile outside town, depositing our permits in the thru-hiker registration box.
+Less than a mile later, we deposit our permits in the hiker registration box by the Smoky Mountains sign. 
 
 <figure>
     <img src="{{site.baseurl}}/assets/blog_images/hiking/at_2017_2019/north_carolina_tennessee/day18-23/silas_smokies_start.JPG"/>
@@ -32,15 +32,17 @@ As we hike up, we pass a couple section hikers, one of whom introduces himself a
 
 From afar, the necklace looks like a pinkish yellow rock tied to a string.
 
-"No way," Silas says.
+"No way," Silas says, laughing.
 
 <figure>
     <img src="{{site.baseurl}}/assets/blog_images/hiking/at_2017_2019/north_carolina_tennessee/day18-23/toe.JPG"/>
 </figure>
 
-We meet Toe again when we stop for lunch at a rickety old fire tower that sways in the wind.
+We meet Toe again when we stop for lunch at a rickety old fire tower that sways in the wind. 
 
 "You can see the nail on the end," Toe tells another hiker. Looking closer, his necklace indeed features what looks like a toenail.
+
+*Woah.*
 
 >"I had a hammer toe, which is when one toe goes over the other. My wife said, 'You should really take care of that before you hike.' So, I went to the doctor. He said he could put a screw here, a screw there - recovery'd take a few months - and the whole thing'd cost $40,000. Or, he could cut off my toe.
 >
@@ -58,7 +60,11 @@ We meet Toe again when we stop for lunch at a rickety old fire tower that sways 
 >
 >⁃ Toe
 
-When we reach Mollies Ridge Shelter, the first shelter of the Smokies, rain begins pouring down. I decide to stay; Silas pushes on to meet up with the rest of the group. A sign at the shelter helpfully points to water on one side, and the 'toilet area' down a minefield of a hill on the other.
+Rain starts pouring down as we reach Mollies Ridge Shelter, the first shelter in the Smokies. I decide to stay; Silas pushes on to meet up with the rest of the group. A sign at the shelter helpfully points to water on one side, and the 'toilet area' down the other. There are no privies in Tennessee, and the hill is a minefield of raised dirt piles.
+
+We string a tarp across the front of the shelter and hang our packs from the roof beam. Graffiti lines the walls. I spot one quote from the Lord of the Rings:
+
+>"It's a dangerous business, Frodo, going out of your door. You step onto the road, and if you don't keep your feet, there's no knowing where you might be swept off to.”
 
 <figure>
     <img src="{{site.baseurl}}/assets/blog_images/hiking/at_2017_2019/north_carolina_tennessee/day18-23/rainy_pack_wall.JPG"/>
@@ -68,7 +74,7 @@ When we reach Mollies Ridge Shelter, the first shelter of the Smokies, rain begi
     <img src="{{site.baseurl}}/assets/blog_images/hiking/at_2017_2019/north_carolina_tennessee/day18-23/shelter_graffiti.JPG"/>
 </figure>
 
-I wake up to find a tent set up smack o the middle of the toilet area. *Interesting choice of a spot,* I think.
+I wake up to find a tent set up smack in the middle of the toilet area. *Interesting choice of a spot,* I think.
 
 I hike alone through muddy trails in steady rain and fog. Ian passes me early in the day, slipping and sliding down the slopes.
 
@@ -86,7 +92,7 @@ I hike alone through muddy trails in steady rain and fog. Ian passes me early in
 
 "The trail is actively trying to kill me today!" he shouts over his shoulder.
 
-By the time I arrive at the shelter, all my belongings are wet. A tarp covers the front of the shelter, keeping the rain out. Other hikers have surrounded a small fire in the fireplace with wet socks and boots, hoping to dry them out. By the time I go to bed, the shelter is completely packed.
+By the time I arrive at the shelter, all my belongings are wet. The shelter tarp keeps most of the rain out. Other hikers have started a small fire in the fireplace and surrounded it with wet socks and boots, hoping to dry them out. My boots and socks are soaked with mud; I pull them off and add them to the pile. By the time I go to bed, the shelter is completely packed. 
 
 A drizzly rain continues into the next day, shrouding the Smokies in a dense white mist. Moss carpets the forest floor. Clingman's Dome, the highest point on the Appalachian Trail, lies ahead. I cross my fingers for a view.
 
@@ -96,7 +102,7 @@ That day, I hike with two section hikers: Steve, a concrete foreman, and Luke, w
     <img src="{{site.baseurl}}/assets/blog_images/hiking/at_2017_2019/north_carolina_tennessee/day18-23/steve.JPG"/>
 </figure>
 
-"What is the most valuable lesson you've learned at work?" I ask, curious about their careers.
+"What is the most valuable lesson you've learned at work?" I ask.
 
 "Keep your head down, and shut your mouth," Luke replies.
 
@@ -158,8 +164,7 @@ A wooden sign marks the North Carolina - Tennessee border at Newfound Gap. Touri
     <img src="{{site.baseurl}}/assets/blog_images/hiking/at_2017_2019/north_carolina_tennessee/day18-23/trail_after_newfound_gap.JPG"/>
 </figure>
 
-
-By early afternoon, the rain clears out, allowing me to enjoy the view at Charlie's Bunion.
+By early afternoon, the rain clears out, just in time for the view at Charlie's Bunion.
 
 <figure>
     <img src="{{site.baseurl}}/assets/blog_images/hiking/at_2017_2019/north_carolina_tennessee/day18-23/charles_bunion.JPG"/>
@@ -173,12 +178,11 @@ By early afternoon, the rain clears out, allowing me to enjoy the view at Charli
     <img src="{{site.baseurl}}/assets/blog_images/hiking/at_2017_2019/north_carolina_tennessee/day18-23/charles_bunion_view.JPG"/>
 </figure>
 
-
-After 14-15 miles, the IT band running down the side of my knee begins to ache. In the last couple miles to the shelter, my knee gives out on me several times. Maybe I'll take it easy tomorrow, I think.
+After 14-15 miles, the IT band running down the side of my knee begins to ache. *Maybe I'll take it easy tomorrow,* I think.
 
 Though I consider taking a zero day, I can't resist hiking when I see sun the next morning. *This may be one of my only chances to hike in the sun in the Smokies.*
 
-A fellow hiker walks over to his pack, saying, "Let's see if I have received the blessing of the acorns." He shakes out his pack. "I have not."
+A fellow hiker walks over to his pack, saying, "Let's see if I have received the blessing of the acorns." He shakes it out. "I have not."
 
 I stop for lunch at Tri-Corner Knob Shelter. My IT band still feels tender. About 15 minutes in, a uniformed young woman shows up, curly hair tied back in a headband.
 
@@ -204,9 +208,9 @@ I decide to stay, rest my knee, and see if the trail crew shows up.
 
 After finishing lunch, Chloe runs over to the fire pit. She makes a disgusted face as she contemplates the pile of cigarette butts in the ashes. "People suck," she mutters.
 
-I can't help but think the same thing when I pull half-decomposed toilet paper out of a hollowed tree trunk while helping her clean up after lunch.
+I can't help but think the same thing when I find half-decomposed toilet paper in a hollowed tree trunk after lunch.
 
-The skies open up in the afternoon: Rain pours down in intermittent bursts. Around mid-afternoon, Carter shows up. Then, Silas. Jenny and Kelly. Kali. Tom.
+The skies open up in the afternoon: Rain pours down in intermittent bursts. Around mid-afternoon, Carter shows up. Then, Silas. Jenny and Kelly. Kali. Tom. We've crossed paths intermittently ever since Neel Gap.
 
 We all sit on logs around the fire pit for dinner during a brief respite in the rain.
 
@@ -234,7 +238,7 @@ We all sit on logs around the fire pit for dinner during a brief respite in the 
 
 "I want to be done with the Smokies, too," I agree.
 
-The 17 miles downhill fly by the next day. My IT band feels much better after a night of rest, and the rain holds off for most of the day. A sense of accomplishment rushes through me as I cross the northern border of the Smokies. That night, I camp with the trail crew on the side of a stream, about a mile from Standing Bear Hostel.
+The 17 miles downhill fly by the next day. The rain holds off for most of the day. After a night of rest, my IT band feels much better. A sense of accomplishment rushes through me as I cross the northern border of the Smokies. That night, I camp with the trail crew on the side of a stream, about a mile from Standing Bear Hostel.
 
 <figure>
     <img src="{{site.baseurl}}/assets/blog_images/hiking/at_2017_2019/north_carolina_tennessee/day18-23/smokies_end.JPG"/>

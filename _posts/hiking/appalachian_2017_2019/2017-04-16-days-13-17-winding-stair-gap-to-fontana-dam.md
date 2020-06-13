@@ -157,7 +157,11 @@ I pick out a small black pebble and put it in my pack.
     <img src="{{site.baseurl}}/assets/blog_images/hiking/at_2017_2019/north_carolina_tennessee/day13-17/paved.JPG"/>
 </figure>
 
-The trail runs straight through Fontana Dam, the gateway to the Smokies, famous for the 'Fontana Hilton' shelter. Where most of the shelters on trail are 3-sided wooden structures with pit privies, the Hilton features hot showers and toilets in a nearby bathhouse. At least 40 tents dot the surrounding area. A few groups pitch in to order several stacks of local pizza. I join the hikers lining up to grab a slice.
+The trail runs straight through Fontana Dam, gateway to the Smokies and home of the 'Fontana Hilton' shelter. Where most of the shelters on trail are 3-sided wooden structures with pit privies, the Hilton features hot showers and toilets in a nearby bathhouse. 
+
+My mom is my logistics manager; every 3-7 days, I ping her with my location, and she mails a package filled with pre-packed meals, first aid supplies, and other necessities to the next town. Today, I pick up my mail drop at the Fontana Lodge, slice it open with a pocket knife, and smile when I spot a solid dark chocolate bunny sitting amidst the contents. It is Easter Sunday.  
+
+Down the hill from the lodge is a general store, laundromat, and outdoor patio. I pool my laundry with a few other hikers and check the general store before heading to the Fontana Hilton. At least 40 tents dot the surrounding area. We all pitch in to order several stacks of local pizza.
 
 <figure>
     <img src="{{site.baseurl}}/assets/blog_images/hiking/at_2017_2019/north_carolina_tennessee/day13-17/fontana_hilton.JPG"/>
