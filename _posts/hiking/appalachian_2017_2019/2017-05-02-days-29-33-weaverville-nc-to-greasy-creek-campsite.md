@@ -8,11 +8,11 @@ image: assets/blog_images/hiking/at_2017_2019/north_carolina_tennessee/day29-33/
 
 ---
 
-There is a brief roadwalk from the Fontana Hilton, across the dam, and into the surrounding woods before the official start of the Smoky Mountains. 
+'I was thinking of parking at Devil's Fork Gap and hiking south to meet you,' Woody texts me.
 
-"I wonder what it would be like to grow up in this town," Silas says as we cross. "They must hear so many dam jokes."
+'That would work!' I text back.
 
-"One of the locals said she was 7 when the Dam was built. She said she was one of the Dam kids. She went to the Dam school."
+Devil's Fork Gap. Just 9 miles away. On this rare clear day, I spend nearly an hour perched atop the peak of Big Butt Mountain - someone had fun naming the thing - basking in the warm glow of early morning sunlight. The fields and ridges of Tennessee are just visible above the treetops to one side; to the other are those of North Carolina. I just want to stay here, I think. But it would be poor form to meet Woody here, after just two miles.
 
 >"The first night, I caught, like, five fireflies. I put them all in my bug net, and put that in my tent, and I was like, 'Ah ~ this is magical!'"
 >
