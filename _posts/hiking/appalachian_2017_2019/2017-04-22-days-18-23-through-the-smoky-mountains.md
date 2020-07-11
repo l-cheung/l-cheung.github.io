@@ -219,7 +219,7 @@ We all sit on logs around the fire pit for dinner during a brief respite in the 
 >⁃ Silas 
 
 <figure>
-    <img src="{{site.baseurl}}/assets/blog_images/hiking/at_2017_2019/north_carolina_tennessee/day18-23/camp.JPG"/>
+    <img src="{{site.baseurl}}/assets/blog_images/hiking/at_2017_2019/north_carolina_tennessee/day18-23/camp.JPEG"/>
 </figure>
 
 <figure>
@@ -238,7 +238,7 @@ We all sit on logs around the fire pit for dinner during a brief respite in the 
 
 "I want to be done with the Smokies, too," I agree.
 
-The 17 miles downhill fly by the next day. The rain holds off for most of the day. After a night of rest, my IT band feels much better. A sense of accomplishment rushes through me as I cross the northern border of the Smokies. That night, I camp with the trail crew on the side of a stream, about a mile from Standing Bear Hostel.
+The 17 miles downhill fly by the next day. The rain holds off for most of the day. After a night of rest, my IT band feels much better. A sense of accomplishment rushes through me as I cross the northern border of the Smokies. We camp on the side of a stream, about a mile from Standing Bear Hostel. The forecast calls for rain.
 
 <figure>
     <img src="{{site.baseurl}}/assets/blog_images/hiking/at_2017_2019/north_carolina_tennessee/day18-23/smokies_end.JPG"/>
