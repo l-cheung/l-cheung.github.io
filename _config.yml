@@ -4,7 +4,7 @@ title: "Lilian C. Cheung"
 description: "Hello, World!"
 logo: 'assets/images/mountain_logo.svg'
 favicon: 'assets/images/mountain_logo.svg'
-baseurl: '/personal-blog'
+baseurl: ''
 #google_analytics: 'UA-46278016-1'
 #disqus: 'disqus_id'
 include: ["_pages"]
