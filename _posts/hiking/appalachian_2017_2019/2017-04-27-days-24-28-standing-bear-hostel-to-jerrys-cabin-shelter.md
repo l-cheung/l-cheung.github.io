@@ -50,7 +50,7 @@ We split a Motel 6 room amongst the six of us and have Waffle House for lunch. T
 
 >"You'd think it'd be R, but it's really the sea!"
 "I owned a business out of college. It was called Tri Rho. It was a rowing company, playing off the rowing fraternities: Tri Rho - row row row. We actually started turning a profit."
-
+>
 >⁃ Carter 'Honey Bunz,' NOBO thru-hiker
 
 <figure>
@@ -103,7 +103,7 @@ That night, we dine at the Smoky Mountain Diner, start a fire in the fire pit, a
 "I know what to name Tom," Carter says. "Waldo. We're always saying, 'Where's Tom?' - 'Where's Waldo?'"
 
 >"It's like that proverb: If you want to walk fast, walk alone. If you want to walk far, walk together."
-
+>
 >⁃ Tom, 'Waldo'
 
 <figure>
@@ -113,8 +113,6 @@ That night, we dine at the Smoky Mountain Diner, start a fire in the fire pit, a
 <figure>
     <img src="{{site.baseurl}}/assets/blog_images/hiking/at_2017_2019/north_carolina_tennessee/day24-28/IMG_5471.JPG"/>
 </figure>
-
-Before climbing out of town the next day, I send a message to Woody, a friend from my hike last year. 'Let me know when you're in the Hot Springs, NC to Erwin, TN area,' he'd said.\
 
 <figure>
     <img src="{{site.baseurl}}/assets/blog_images/hiking/at_2017_2019/north_carolina_tennessee/day24-28/IMG_5489.JPG"/>

@@ -5,13 +5,15 @@ author: lilian
 featured: true
 comments: false
 categories: [ Hiking, AT 2017-2019, AT Georgia ]
-image: assets/blog_images/hiking/at_2017_2019/georgia/day0/train_new_haven.JPG
+image: assets/blog_images/hiking/at_2017_2019/georgia/day0/heading_out.JPG
 
 ---
 
-"If it were all sunshine and rainbows, you know, we'd all be like - 'eh, whatever.' But it's not. It's a physical challenge. Something you can sink your teeth into. That's what keeps us coming back," says Duffy, my driver. That about sums up my feelings on the Appalachian Trail: the allure, the frustration, the excitement, the reward. A chance. An adventure.
+"If it were all sunshine and rainbows, you know, we'd all be like - 'eh, whatever.' But it's not. It's a physical challenge. Something you can sink your teeth into. That's what keeps us coming back," says Duffy, my driver. That sums up my feelings on the Appalachian Trail: the allure, the frustration, the excitement, the reward. A chance. An adventure.
 
 2189 miles of adventure.
+
+<img src = "{{site.baseurl}}/assets/blog_images/hiking/at_2017_2019/georgia/day0/train_new_haven.JPG"/>
 
 I am the only hiker on the shuttle that morning, traveling from Gainesville to the Hiker Hostel.
 
@@ -26,7 +28,7 @@ I turn to Duffy. "You've shuttled so many people over these years. What would yo
 We pull into the Hiker Hostel in the midst of a flurry of activity. Hikers are everywhere, finishing breakfast, checking out, packing up, and boarding shuttles. Duffy drops me off in the bunkhouse. In another half hour, the shuttles pull out, and the hostel falls silent.
 
 
-<img src = "{{ site.baseurl }}/assets/blog_images/hiking/at_2017_2019/georgia/day0/beds_hiker_hostel.JPG" alt = "Hiker Hostel Beds"/>
+<img src = "{{site.baseurl}}/assets/blog_images/hiking/at_2017_2019/georgia/day0/beds_hiker_hostel.JPG" alt = "Hiker Hostel Beds"/>
 
 > "I mean, people say it's life changing. It was for us. We opened up this place after we finished."
 >
@@ -34,7 +36,7 @@ We pull into the Hiker Hostel in the midst of a flurry of activity. Hikers are e
 
 I spend the morning walking around, checking out the 'tiny house' cabins, and playing with Maggie, the hostel dog. Around noon, hikers begin pouring in: Joe, Nick, Annie, Jesper and Ida...
 
-<img src = "{{ site.baseurl }}/assets/blog_images/hiking/at_2017_2019/georgia/day0/prior_year_hikers.JPEG" alt = "Hikers from Previous Years" />
+<img src = "{{site.baseurl}}/assets/blog_images/hiking/at_2017_2019/georgia/day0/prior_year_hikers.JPEG" alt = "Hikers from Previous Years" />
 
 > "I worked in Silicon Valley for five years. Lost a lot, gained a lot. My story is more complicated than that, but I really want this to be a success story."
 > 
@@ -42,4 +44,4 @@ I spend the morning walking around, checking out the 'tiny house' cabins, and pl
 
 That evening, we all relax around a fire pit, basking in one last warm night of comfort before starting our journeys. All too soon, the sun rises, and we grab breakfast, pack up, and head out into the woods.
 
-<img src = "{{ site.baseurl }}/assets/blog_images/hiking/at_2017_2019/georgia/day0/heading_out.JPG" alt = "Heading Out"/>
+<img src = "{{site.baseurl}}/assets/blog_images/hiking/at_2017_2019/georgia/day0/heading_out.JPG" alt = "Heading Out"/>

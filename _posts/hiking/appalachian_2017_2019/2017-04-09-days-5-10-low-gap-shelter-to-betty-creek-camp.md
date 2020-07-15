@@ -4,7 +4,7 @@ title:  "Low Gap to Betty Creek Camp: Days 5-10"
 author: lilian
 comments: false
 categories: [ Hiking, AT 2017-2019, AT Georgia, AT North Carolina ]
-image: assets/blog_images/hiking/at_2017_2019/georgia/day5-10/hitch_neel_gap.JPG
+image: assets/blog_images/hiking/at_2017_2019/north_carolina_tennessee/day11-12/into_nc.JPG
 
 ---
 
@@ -13,6 +13,10 @@ Don, Josh's shuttle driver, drops by in the morning as we pack. His car is with 
 "Dude," he says, "some of those other drivers, man, they'll charge you ridiculous prices, dude, for each additional person. Me, I charge the same price, dude. Doesn't cost me any more, man. I'm still going to the same place."
 
 We end up dialing several numbers - no response - before trying our luck at hitchhiking out of town. After walking to the local coffee shop, we join a hiker named Athena at the curb, and stick out our thumbs. Cars race by.
+
+<figure>
+    <img src="{{site.baseurl}}/assets/blog_images/hiking/at_2017_2019/georgia/day5-10/hitch_neel_gap.JPG"/>
+</figure>
 
 After a couple more minutes, Athena removes her hat and shakes out her hair.
 

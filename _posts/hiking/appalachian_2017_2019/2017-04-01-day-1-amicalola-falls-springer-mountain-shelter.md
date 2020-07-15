@@ -4,11 +4,15 @@ title:  "Amicalola & Springer Mountain: Day 1"
 author: lilian
 comments: false
 categories: [ Hiking, AT 2017-2019, AT Georgia ]
-image: assets/blog_images/hiking/at_2017_2019/georgia/day1/approach_trail.JPEG
+image: assets/blog_images/hiking/at_2017_2019/georgia/day1/springer_mt_sunset.JPG
 
 ---
 
 The 8.8 mile Approach Trail leads from Amicalola Falls to Springer Mountain, the southern terminus of the Appalachian Trail. Three hikers and I share the shuttle to Amicalola Falls.
+
+<figure>
+    <img src="{{site.baseurl}}/assets/blog_images/hiking/at_2017_2019/georgia/day1/approach_trail.JPEG"/>
+</figure>
 
 Ray, our shuttle driver, unscrews the top of his Smart water bottle. "These Smart water bottles are really useful," he says. "If you have one with one of these caps, you can use it to flush out your Sawyer filter."
 
@@ -54,7 +58,7 @@ The conversation turns to websites. "I own tomesofgarbage.com," Matt says.
 
 "Nothing, yet. It's supposed to be a collection of love notes. It started as a conversation between me and a friend. We were talking about love notes, and I said, 'That's all just tomes of garbage.'"
 
-Around dinner time, another hiker with glasses and a beanie hat comes up. He introduces himself as a local named Pigpen: his trail name and hiker alias.
+Around dinner time, another hiker with glasses and a beanie hat comes up. He introduces himself as a local named Pigpen: his trail name and hiker alias. Trail names are a longstanding tradition for long-distance hiking: nicknames either chosen or bestowed by other hikers.
 
 >"It's kind of embarrassing. My wife gave it to me. I'm always falling and getting mud and stuff on my clothes. She said, 'You're like Pigpen from Peanuts.'"
 >
@@ -73,7 +77,7 @@ Around dinner time, another hiker with glasses and a beanie hat comes up. He int
 
 "Yeah -- It was definitely worth it."
 
-"That's your trail name! Not bad!" Pigpen says.
+"That's your trail name! Not bad!" Pigpen says. 
 
 <figure>
     <img src="{{site.baseurl}}/assets/blog_images/hiking/at_2017_2019/georgia/day1/springer_mt_sunset.JPG"/>
