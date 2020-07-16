@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Days 34-35: Roan High Knob and the Roan Highlands"
+title:  "Roan High Knob and the Roan Highlands: Days 34-35"
 author: lilian
 comments: false
 categories: [ Hiking, AT 2017-2019, AT North Carolina, AT Tennessee]
