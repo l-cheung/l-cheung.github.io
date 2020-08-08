@@ -219,7 +219,7 @@ The next day passes in a blur. To my surprise, the sun comes out, and I actually
     <img src="{{site.baseurl}}/assets/blog_images/hiking/at_2017_2019/north_carolina_tennessee/day29-33/IMG_5578.JPG"/>
 </figure>
 
-In the mid-afternoon, I come across a large black van plastered with pictures of Casper, the friendly ghost. A man wearing a grungy sweatshirt and jeans gets off and offers me some soda and snacks. He introduces himself as Rob, the former owner of a hiker hostel up north.
+In the mid-afternoon, I come across a large white van plastered with pictures of Casper, the friendly ghost. A man wearing a grungy sweatshirt and jeans gets off and offers me some soda and snacks. He introduces himself as Rob, the former owner of a hiker hostel up north.
 
 >"All of you are such unique individuals, and when you put everyone together, generally, a very happy thing happens."
 >
