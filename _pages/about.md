@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
+title: About
 permalink: /about
-comments: true
+comments: false
+
 ---
 
-Website in progress. Migrating from [lilianccheung.com](lilianccheung.com).
+Hi! I'm Lilian, a data engineer, former data scientist, and AT 2000-miler. This blog is migrated from Weebly.
