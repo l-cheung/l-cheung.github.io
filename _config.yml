@@ -16,8 +16,8 @@ authors:
     name: Lilian
     display_name: Lil
     avatar: 'assets/images/self_vector.png'
-    web: https://www.lilianccheung.com
-    description: 'Hello'
+    web: http://www.lilianccheung.com
+    description: ''
 
 # Plugins
 plugins:

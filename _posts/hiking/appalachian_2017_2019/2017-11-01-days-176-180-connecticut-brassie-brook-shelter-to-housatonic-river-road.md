@@ -23,7 +23,7 @@ image: assets/blog_images/hiking/at_2017_2019/scrape/img-9611_orig.jpg
 
 <a></a><br>Every so often, he pauses for a smoke before continuing on. We reach the border at the same time. Shaker lights a couple incense cones, rolls a cigarette, and recites a poem by Oriah Mountain Dreamer:<br><a></a><br><em>“It doesn't interest me what you do for a living. I want to know what you ache for and if you dare to dream of meeting your heart's longing.<br><br>
  
->*"It doesn't interest me what you do for a living. I want to know what you ache for and if you dare to dream of meeting your heart's longing.
+>"It doesn't interest me what you do for a living. I want to know what you ache for and if you dare to dream of meeting your heart's longing.
 >
 >It doesn't interest me how old you are. I want to know if you will risk looking like a fool for love, for your dream, for the adventure of being alive.
 >
@@ -45,7 +45,7 @@ image: assets/blog_images/hiking/at_2017_2019/scrape/img-9611_orig.jpg
 >
 >It doesn't interest me where or what or with whom you have studied. I want to know what sustains you from the inside when all else falls away.
 >
->I want to know if you can be alone with yourself and if you truly like the company you keep in the empty moments." - Oriah Mountain Dreamer, recited by Shaker*
+>I want to know if you can be alone with yourself and if you truly like the company you keep in the empty moments." - Oriah Mountain Dreamer, recited by Shaker
 
 <br><br>We summit Bear Mountain in the dark, clambering over boulders almost reminiscent of Maine. The full moon lights our way. It's freezing outside.<br>
 
@@ -85,6 +85,7 @@ image: assets/blog_images/hiking/at_2017_2019/scrape/img-9611_orig.jpg
 
 <figure><img src="{{site.baseurl}}/assets/blog_images/hiking/at_2017_2019/scrape/img-9616_orig.jpg" ></figure>
 
-<blockquote>“Adventure is a path. Real adventure – self-determined, self-motivated, often risky – forces you to have firsthand encounters with the world. The world the way it is, not the way you imagine it. Your body will collide with the earth and you will bear witness. In this way you will be compelled to grapple with the limitless kindness and bottomless cruelty of humankind – and perhaps realize that you yourself are capable of both. This will change you. Nothing will ever again be black-and-white.”
 
-- Mark Jenkins, writer and climber</blockquote>
+>“Adventure is a path. Real adventure – self-determined, self-motivated, often risky – forces you to have firsthand encounters with the world. The world the way it is, not the way you imagine it. Your body will collide with the earth and you will bear witness. In this way you will be compelled to grapple with the limitless kindness and bottomless cruelty of humankind – and perhaps realize that you yourself are capable of both. This will change you. Nothing will ever again be black-and-white.”
+>
+>- Mark Jenkins, writer and climber
