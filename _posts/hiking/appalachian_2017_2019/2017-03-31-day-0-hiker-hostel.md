@@ -4,6 +4,7 @@ title:  "Hiker Hostel: Day 0"
 author: lilian
 featured: true
 comments: false
+redirect_from: "/personal-blog/day-0-hiker-hostel9823141/"
 categories: [ Hiking, AT 2017-2019, AT Georgia ]
 image: assets/blog_images/hiking/at_2017_2019/georgia/day0/heading_out.JPG
 
