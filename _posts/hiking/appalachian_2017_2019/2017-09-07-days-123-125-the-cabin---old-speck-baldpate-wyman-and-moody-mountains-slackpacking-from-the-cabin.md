@@ -3,6 +3,7 @@ layout: post
 title:  "The Cabin - Old Speck, Baldpate, Wyman, and Moody Mountains (Slackpacking from The Cabin): Days 123-125"  
 author: lilian  
 comments: false  
+redirect_from: "/personal-blog/days-123-125-the-cabin-old-speck-baldpate-wyman-and-moody-mountains-slackpacking-from-the-cabin/"
 categories: [ Hiking, AT 2017-2019, AT Maine ] 
 image: assets/blog_images/hiking/at_2017_2019/scrape/1-5-13_orig.jpg 
                   

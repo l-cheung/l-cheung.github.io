@@ -3,6 +3,7 @@ layout: post
 title:  "Vermont Part I (Thistle Hill Shelter to Greenwall Shelter): Days 152-159"  
 author: lilian  
 comments: false  
+redirect_from: "/personal-blog/days-152-159-vermont-part-i-thistle-hill-shelter-to-greenwall-shelter/"
 categories: [ Hiking, AT 2017-2019, AT Vermont ]
 image: assets/blog_images/hiking/at_2017_2019/scrape/img-9263_orig.jpg 
                   

@@ -3,6 +3,7 @@ layout: post
 title:  "Horse Gap to Neel Gap: Days 2-4"
 author: lilian
 comments: false
+redirect_from: "/personal-blog/days-2-4-horse-gap-to-neels-gap/"
 categories: [ Hiking, AT 2017-2019, AT Georgia ]
 image: assets/blog_images/hiking/at_2017_2019/georgia/day2-4/trail_magic_trailer.JPG
 

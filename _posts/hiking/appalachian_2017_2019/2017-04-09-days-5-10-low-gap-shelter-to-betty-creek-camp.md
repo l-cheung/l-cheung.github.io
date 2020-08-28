@@ -3,6 +3,7 @@ layout: post
 title:  "Low Gap to Betty Creek Camp: Days 5-10"
 author: lilian
 comments: false
+redirect_from: "/personal-blog/days-5-10-low-gap-shelter-to-betty-creek-camp/"
 categories: [ Hiking, AT 2017-2019, AT Georgia, AT North Carolina ]
 image: assets/blog_images/hiking/at_2017_2019/north_carolina_tennessee/day11-12/into_nc.JPG
 

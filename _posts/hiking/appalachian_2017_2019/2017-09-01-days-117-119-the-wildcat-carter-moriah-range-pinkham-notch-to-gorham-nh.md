@@ -3,6 +3,7 @@ layout: post
 title:  "The Wildcat-Carter-Moriah Range (Pinkham Notch to Gorham, NH): Days 117-119"  
 author: lilian  
 comments: false  
+redirect_from: "/personal-blog/september-02nd-2017/"
 categories: [ Hiking, AT 2017-2019, AT New Hampshire ] 
 image: assets/blog_images/hiking/at_2017_2019/scrape/img-8225_orig.jpg 
                   

@@ -3,6 +3,12 @@ layout: post
 title:  "Out of the Shenandoahs to The Priest"  
 author: lilian  
 comments: false  
+redirect_from:
+    - /personal-blog/day-16-calf-mountain-shelter/
+    - /personal-blog/day-17-waynesboro/
+    - /personal-blog/day-18-paul-c-wolfe-shelter/
+    - /personal-blog/day-19-maupin-fields-shelter/
+    - /personal-blog/day-20-the-priest-shelter/
 categories: [Hiking, AT 2016 Virginia]  
 image: assets/blog_images/hiking/at_2017_2019/scrape/4364609_orig.jpg
 

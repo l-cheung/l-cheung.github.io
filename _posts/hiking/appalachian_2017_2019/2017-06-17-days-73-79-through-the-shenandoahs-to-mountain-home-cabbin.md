@@ -3,6 +3,7 @@ layout: post
 title:  "Through the Shenandoahs to Mountain Home Cabbin: Days 73-79"  
 author: lilian  
 comments: false  
+redirect_from: "/personal-blog/days-73-79-through-the-shenandoahs-to-mountain-home-cabbin/"
 categories: [ Hiking, AT 2017-2019, AT Virginia ]    
 image: assets/blog_images/hiking/at_2017_2019/scrape/img-6571_orig.jpg 
                   

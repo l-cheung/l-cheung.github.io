@@ -3,6 +3,7 @@ layout: post
 title:  "County Road 517 (NJ) to Hoyt Road: New York"  
 author: lilian  
 comments: false  
+redirect_from: "/personal-blog/new-york-county-road-517-nj-to-hoyt-road/"
 categories: [ Hiking, AT 2017-2019, AT New York, AT New Jersey ] 
 image: assets/blog_images/hiking/at_2017_2019/scrape/img-2694-edited_orig.jpg
                   

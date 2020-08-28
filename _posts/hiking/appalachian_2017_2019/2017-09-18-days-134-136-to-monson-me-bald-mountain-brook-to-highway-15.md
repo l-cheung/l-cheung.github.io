@@ -3,6 +3,7 @@ layout: post
 title:  "To Monson, ME (Bald Mountain Brook to Highway 15): Days 134-136"  
 author: lilian  
 comments: false  
+redirect_from: "/personal-blog/days-134-136-to-monson-me-bald-mountain-brook-to-highway-15/"
 categories: [ Hiking, AT 2017-2019, AT Maine ]  
 image: assets/blog_images/hiking/at_2017_2019/scrape/img-8687_orig.jpg
                   

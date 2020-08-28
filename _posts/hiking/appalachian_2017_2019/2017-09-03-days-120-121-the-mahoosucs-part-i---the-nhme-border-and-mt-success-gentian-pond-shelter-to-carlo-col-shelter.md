@@ -3,6 +3,7 @@ layout: post
 title:  "The Mahoosucs Part I - the NH/ME Border and Mt. Success (Gentian Pond Shelter to Carlo Col Shelter): Days 120-121"  
 author: lilian  
 comments: false  
+redirect_from: "/personal-blog/days-120-121-the-mahoosucs-part-i-the-nhme-border-and-mt-success-gentian-pond-shelter-to-carlo-col-shelter/"
 categories: [ Hiking, AT 2017-2019, AT New Hampshire, AT Maine ]  
 image: assets/blog_images/hiking/at_2017_2019/scrape/img-8277_orig.jpg
                   

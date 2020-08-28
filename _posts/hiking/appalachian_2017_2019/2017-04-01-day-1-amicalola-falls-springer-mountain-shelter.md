@@ -3,6 +3,7 @@ layout: post
 title:  "Amicalola & Springer Mountain: Day 1"
 author: lilian
 comments: false
+redirect_from: "/personal-blog/day-1-amicalola-falls-springer-mountain-shelter/"
 categories: [ Hiking, AT 2017-2019, AT Georgia ]
 image: assets/blog_images/hiking/at_2017_2019/georgia/day1/springer_mt_sunset.JPG
 

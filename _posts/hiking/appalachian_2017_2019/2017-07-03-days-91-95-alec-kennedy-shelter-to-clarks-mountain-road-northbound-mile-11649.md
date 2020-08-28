@@ -3,6 +3,7 @@ layout: post
 title:  "Alec Kennedy Shelter to Clark's Mountain Road (Northbound mile 1164.9): Days 91-95"  
 author: lilian  
 comments: false  
+redirect_from: "/personal-blog/days-91-95-alec-kennedy-shelter-to-clarks-mountain-road-northbound-mile-11649/"
 categories: [ Hiking, AT 2017-2019, AT Pennsylvania ]  
 image: assets/blog_images/hiking/at_2017_2019/scrape/img-6932_orig.jpg
                   

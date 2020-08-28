@@ -3,6 +3,12 @@ layout: post
 title:  "Into the Shenandoahs"  
 author: lilian  
 comments: false  
+redirect_from:
+    - /personal-blog/day-6-mountain-home-cabbin-front-royal/
+    - /personal-blog/day-7-into-shenandoah-national-park/
+    - /personal-blog/day-8-gravel-springs-hut/
+    - /personal-blog/day-9-pass-mountain-hut/
+    - /personal-blog/day-10-camped-past-skyland-resort/
 categories: [Hiking, AT 2016 Virginia]  
 image: assets/blog_images/hiking/at_2017_2019/scrape/9418657_orig.jpg
                   

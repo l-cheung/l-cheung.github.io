@@ -3,6 +3,7 @@ layout: post
 title:  "Weaverville, NC to Greasy Creek Campsite: Days 29-33"
 author: lilian
 comments: false
+redirect_from: "/personal-blog/days-29-33-weaverville-nc-to-greasy-creek-campsite/"
 categories: [ Hiking, AT 2017-2019, AT North Carolina, AT Tennessee]
 image: assets/blog_images/hiking/at_2017_2019/north_carolina_tennessee/day29-33/IMG_5568.JPEG
 

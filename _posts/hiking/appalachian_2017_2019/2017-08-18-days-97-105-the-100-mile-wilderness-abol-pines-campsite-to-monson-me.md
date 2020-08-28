@@ -3,6 +3,7 @@ layout: post
 title:  "The 100 Mile Wilderness (Abol Pines Campsite to Monson, ME): Days 97-105"  
 author: lilian  
 comments: false  
+redirect_from: "/personal-blog/days-97-105-the-100-mile-wilderness-abol-pines-campsite-to-monson-me/"
 categories: [ Hiking, AT 2017-2019, AT Maine ]
 image: assets/blog_images/hiking/at_2017_2019/scrape/img-7422_orig.jpg 
                   

@@ -3,6 +3,12 @@ layout: post
 title:  "Bearfence Hut to Blackrock Hut"  
 author: lilian  
 comments: false  
+redirect_from: 
+    - /personal-blog/day-11-bearfence-hut/
+    - /personal-blog/day-12-into-elkton/
+    - /personal-blog/day-13-zero-in-elkton/
+    - /personal-blog/day-14-pinefield-hut/
+    - /personal-blog/day-15-black-rock-hut/
 categories:  [Hiking, AT 2016 Virginia]  
 image: assets/blog_images/hiking/at_2017_2019/scrape/841849_orig.jpg
                   

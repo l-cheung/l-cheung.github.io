@@ -3,6 +3,7 @@ layout: post
 title:  "Sunrise on Mt. Washington and Zip Lining down Wildcat D (Zeroing in the Whites): Days 115-116"  
 author: lilian  
 comments: false  
+redirect_from: "/personal-blog/days-115-116-sunrise-on-mt-washington-and-zip-lining-down-wildcat-d-zeroing-in-the-whites/"
 categories: [ Hiking, AT 2017-2019 ] 
 image: assets/blog_images/hiking/at_2017_2019/scrape/img-7850_orig.jpg
                   

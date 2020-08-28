@@ -3,6 +3,7 @@ layout: post
 title:  "Maupin Fields Shelter to Waynesboro: Days 70-72"  
 author: lilian  
 comments: false  
+redirect_from: "/personal-blog/days-70-72-maupin-fields-shelter-to-waynesboro/"
 categories: [ Hiking, AT 2017-2019, AT Virginia ]   
 image: assets/blog_images/hiking/at_2017_2019/scrape/img-6500_orig.jpg
                   

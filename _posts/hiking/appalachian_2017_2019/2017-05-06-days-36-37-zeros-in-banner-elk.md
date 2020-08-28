@@ -3,6 +3,7 @@ layout: post
 title:  "Zeros in Banner Elk: Days 36-37"
 author: lilian
 comments: false
+redirect_from: "/personal-blog/days-36-37-zeros-in-banner-elk/"
 categories: [ Hiking, AT 2017-2019, AT North Carolina, AT Tennessee]
 image: assets/blog_images/hiking/at_2017_2019/north_carolina_tennessee/day36-37/IMG_4291.JPEG
 

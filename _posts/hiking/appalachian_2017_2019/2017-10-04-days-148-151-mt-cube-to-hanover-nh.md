@@ -3,6 +3,7 @@ layout: post
 title:  "Mt. Cube to Hanover, NH: Days 148-151"  
 author: lilian  
 comments: false  
+redirect_from: "/personal-blog/days-148-151-mt-cube-to-hanover-nh/"
 categories: [ Hiking, AT 2017-2019, AT New Hampshire ]
 image: assets/blog_images/hiking/at_2017_2019/scrape/img-9107_orig.jpg
                   

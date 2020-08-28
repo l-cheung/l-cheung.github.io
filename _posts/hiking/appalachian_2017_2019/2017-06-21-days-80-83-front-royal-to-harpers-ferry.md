@@ -3,6 +3,7 @@ layout: post
 title:  "Front Royal to Harpers Ferry: Days 80-83"  
 author: lilian  
 comments: false  
+redirect_from: "/personal-blog/days-80-83-front-royal-to-harpers-ferry/"
 categories: [ Hiking, AT 2017-2019, AT Virginia, AT West Virginia ]   
 image: assets/blog_images/hiking/at_2017_2019/scrape/img-6640_orig.jpg
                   

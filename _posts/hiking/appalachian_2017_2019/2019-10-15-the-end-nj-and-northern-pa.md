@@ -3,6 +3,7 @@ layout: post
 title:  "NJ and Northern PA: The End"  
 author: lilian  
 comments: false  
+redirect_from: "/personal-blog/the-end-nj-and-northern-pa/"
 categories: [ Hiking, AT 2017-2019, AT Pennsylvania, AT New Jersey ] 
 image: assets/blog_images/hiking/at_2017_2019/scrape/img-5379-edited_orig.jpg
                   

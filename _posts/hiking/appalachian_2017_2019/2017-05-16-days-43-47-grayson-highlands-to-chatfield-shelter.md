@@ -3,6 +3,7 @@ layout: post
 title:  "Grayson Highlands to Chatfield Shelter: Days 43-47"
 author: lilian
 comments: false
+redirect_from: "/personal-blog/days-43-47-lost-mountain-shelter-to-chatfield-shelter/"
 categories: [ Hiking, AT 2017-2019, AT Virginia]
 image: assets/blog_images/hiking/at_2017_2019/virginia/day43-47/IMG_5880.JPG
 

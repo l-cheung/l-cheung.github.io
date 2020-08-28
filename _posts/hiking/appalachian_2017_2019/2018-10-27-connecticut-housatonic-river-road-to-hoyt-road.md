@@ -3,6 +3,7 @@ layout: post
 title:  "Housatonic River Road to Hoyt Road: Connecticut"  
 author: lilian  
 comments: false  
+redirect_from: "/personal-blog/connecticut-housatonic-river-road-to-hoyt-road/"
 categories: [ Hiking, AT 2017-2019, AT Connecticut ]
 image: assets/blog_images/hiking/at_2017_2019/scrape/img-1480_orig.jpeg 
                   

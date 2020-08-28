@@ -3,6 +3,7 @@ layout: post
 title:  "The Saddlebacks (The Hiker Hut to Poplar Ridge Lean-to): Day 128"  
 author: lilian  
 comments: false  
+redirect_from: "/personal-blog/day-128-the-saddlebacks-the-hiker-hut-to-poplar-ridge-lean-to/"
 categories: [ Hiking, AT 2017-2019, AT Maine ]
 image: assets/blog_images/hiking/at_2017_2019/scrape/img-8489_orig.jpg
                   

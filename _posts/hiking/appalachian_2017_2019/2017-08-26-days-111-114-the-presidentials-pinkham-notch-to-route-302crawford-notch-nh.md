@@ -4,6 +4,7 @@ title:  "The Presidentials (Pinkham Notch to Route 302/Crawford Notch, NH): Days
 author: lilian 
 featured: true
 comments: false  
+redirect_from: "/personal-blog/days-111-114-the-presidentials-pinkham-notch-to-route-302crawford-notch-nh/"
 categories: [ Hiking, AT 2017-2019, AT New Hampshire ] 
 image: assets/blog_images/hiking/at_2017_2019/scrape/img-7711_orig.jpg
                   

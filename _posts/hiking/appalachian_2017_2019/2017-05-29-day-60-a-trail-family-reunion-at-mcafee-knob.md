@@ -3,6 +3,7 @@ layout: post
 title:  "A Trail Family Reunion at McAfee Knob: Day 60"  
 author: lilian  
 comments: false  
+redirect_from: "/personal-blog/day-60-a-trail-family-reunion-at-mcafee-knob/"
 categories: [ Hiking, AT 2017-2019, AT Virginia ]  
 image: assets/blog_images/hiking/at_2017_2019/scrape/img-3975_orig.jpg
                   

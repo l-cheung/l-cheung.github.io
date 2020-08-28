@@ -3,6 +3,7 @@ layout: post
 title:  "Camped at the Carrabassett River - Mt. Abraham, Spaulding Mountain, Mt. Sugarloaf: Day 129"  
 author: lilian  
 comments: false  
+redirect_from: "/personal-blog/day-129-camped-at-the-carrabassett-river-mt-abraham-spaulding-mountain-mt-sugarloaf/"
 categories: [ Hiking, AT 2017-2019, AT Maine ]  
 image: assets/blog_images/hiking/at_2017_2019/scrape/img-8532_orig.jpg
                   

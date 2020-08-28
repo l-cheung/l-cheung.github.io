@@ -3,6 +3,7 @@ layout: post
 title:  "Daleville to Spy Rock: Days 61-69"  
 author: lilian  
 comments: false  
+redirect_from: "/personal-blog/days-61-69-daleville-to-spy-rock/"
 categories: [ Hiking, AT 2017-2019, AT Virginia ]    
 image: assets/blog_images/hiking/at_2017_2019/scrape/6-8-14_orig.jpg               
 

@@ -4,6 +4,7 @@ title:  "The Mahoosucs Part II - Goose Eye, Mahoosuc Notch, and Mahoosuc Arm (Sp
 author: lilian  
 featured: true
 comments: false  
+redirect_from: "/personal-blog/september-04th-2017/"
 categories: [ Hiking, AT 2017-2019, AT Maine ]
 image: assets/blog_images/hiking/at_2017_2019/scrape/15-4-19_orig.jpg 
                   

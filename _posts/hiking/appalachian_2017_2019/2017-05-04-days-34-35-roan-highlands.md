@@ -3,6 +3,7 @@ layout: post
 title:  "Roan Highlands: Days 34-35"
 author: lilian
 comments: false
+redirect_from: "/personal-blog/days-34-35-roan-high-knob-and-down-roan-mountain/"
 categories: [ Hiking, AT 2017-2019, AT North Carolina, AT Tennessee]
 image: assets/blog_images/hiking/at_2017_2019/north_carolina_tennessee/day34-35/IMG_5630.JPG
 

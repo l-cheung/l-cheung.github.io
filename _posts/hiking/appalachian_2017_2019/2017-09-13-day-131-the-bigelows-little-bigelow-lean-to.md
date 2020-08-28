@@ -3,6 +3,7 @@ layout: post
 title:  "The Bigelows (Little Bigelow Lean-to): Day 131"  
 author: lilian  
 comments: false  
+redirect_from: "/personal-blog/day-131-the-bigelows-little-bigelow-lean-to/"
 categories: [ Hiking, AT 2017-2019, AT Maine ] 
 image: assets/blog_images/hiking/at_2017_2019/scrape/img-8605_orig.jpg
                   

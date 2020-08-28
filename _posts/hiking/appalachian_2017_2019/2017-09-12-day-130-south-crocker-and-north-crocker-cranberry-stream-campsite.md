@@ -3,6 +3,7 @@ layout: post
 title:  "South Crocker and North Crocker (Cranberry Stream Campsite): Day 130"  
 author: lilian  
 comments: false  
+redirect_from: "/personal-blog/day-130-south-crocker-and-north-crocker-cranberry-stream-campsite/"
 categories: [ Hiking, AT 2017-2019, AT Maine ]
 image: assets/blog_images/hiking/at_2017_2019/scrape/img-8550_orig.jpg
                   

@@ -3,6 +3,7 @@ layout: post
 title:  "Katahdin: Day 96*"  
 author: lilian  
 comments: false  
+redirect_from: "/personal-blog/day-96-katahdin/"
 categories: [ Hiking, AT 2017-2019, AT Maine ]  
 image: assets/blog_images/hiking/at_2017_2019/scrape/katahdin.JPG
                   

@@ -3,6 +3,7 @@ layout: post
 title:  "Vermont Part II (Peru Peak Shelter to Sherman Brook Campsite): Days 160-165"  
 author: lilian  
 comments: false  
+redirect_from: "/personal-blog/days-160-165-vermont-part-ii-peru-peak-shelter-to-sherman-brook-campsite/"
 categories: [ Hiking, AT 2017-2019, AT Vermont ]
 image: assets/blog_images/hiking/at_2017_2019/scrape/img-9335_orig.jpg
                   

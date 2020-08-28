@@ -3,6 +3,7 @@ layout: post
 title:  "Connecticut (Brassie Brook Shelter to Housatonic River Road): Days 176-180"  
 author: lilian  
 comments: false  
+redirect_from: "/personal-blog/days-176-180-connecticut-brassie-brook-shelter-to-housatonic-river-road/"
 categories: [ Hiking, AT 2017-2019, AT Connecticut ]
 image: assets/blog_images/hiking/at_2017_2019/scrape/img-9611_orig.jpg
                   

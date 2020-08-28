@@ -3,6 +3,7 @@ layout: post
 title:  "Moreland Gap Shelter to Damascus, VA: Days 38-42"
 author: lilian
 comments: false
+redirect_from: "/personal-blog/days-38-42-moreland-gap-shelter-to-damascus-va/"
 categories: [ Hiking, AT 2017-2019, AT North Carolina, AT Tennessee, AT Virginia]
 image: assets/blog_images/hiking/at_2017_2019/north_carolina_tennessee/day38-42/IMG_5751.JPG
 

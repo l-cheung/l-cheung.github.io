@@ -3,6 +3,12 @@ layout: post
 title:  "Harper's Ferry to Jim and Molly Denton Shelter"  
 author: lilian  
 comments: false  
+redirect_from: 
+    - /personal-blog/day-2-david-lesser-memorial-shelter/
+    - /personal-blog/day-1-harpers-ferry/
+    - /personal-blog/day-3-near-rod-hollow-shelter-one-month-solo-on-the-appalachian-trail/
+    - /personal-blog/day-4-dicks-dome-shelter/
+    - /personal-blog/day-5-jim-and-molly-denton-shelter/
 categories: [Hiking, AT 2016 Virginia]  
 image: assets/blog_images/hiking/at_2017_2019/scrape/52594_orig.jpg 
                   

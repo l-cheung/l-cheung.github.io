@@ -3,6 +3,7 @@ layout: post
 title:  "To Caratunk, ME (The Sterling Inn): Days 132-133"  
 author: lilian  
 comments: false  
+redirect_from: "/personal-blog/days-132-133-to-caratunk-me-the-sterling-inn/"
 categories: [ Hiking, AT 2017-2019, AT Maine ]
 image: assets/blog_images/hiking/at_2017_2019/scrape/img-8634_orig.jpg
                   

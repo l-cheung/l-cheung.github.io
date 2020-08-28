@@ -3,6 +3,13 @@ layout: post
 title:  "Middle Creek Campground to Four Pines"  
 author: lilian  
 comments: false  
+redirect_from:
+    - /personal-blog/day-26-middle-creek-campground/
+    - /personal-blog/day-27-bobletts-gap-shelter/
+    - /personal-blog/day-28-daleville-and-a-chance-encounter/
+    - /personal-blog/day-29-zero-in-daleville/
+    - /personal-blog/day-30-tinker-cliffs/
+    - /personal-blog/day-31-four-pines-hostel-one-month-complete/
 categories: [Hiking, AT 2016 Virginia] 
 image: assets/blog_images/hiking/at_2017_2019/scrape/img-2111_orig.jpg
                   

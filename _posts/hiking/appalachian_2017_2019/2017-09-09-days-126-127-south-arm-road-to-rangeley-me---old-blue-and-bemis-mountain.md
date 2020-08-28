@@ -3,6 +3,7 @@ layout: post
 title:  "South Arm Road to Rangeley, ME - Old Blue and Bemis Mountain: Days 126-127"  
 author: lilian  
 comments: false  
+redirect_from: "/personal-blog/days-126-127-south-arm-road-to-rangeley-me-old-blue-and-bemis-mountain/"
 categories: [ Hiking, AT 2017-2019, AT Maine ]
 image: assets/blog_images/hiking/at_2017_2019/scrape/img-8421_orig.jpg 
                   

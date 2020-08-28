@@ -3,6 +3,7 @@ layout: post
 title:  "Franconia Ridge (Crawford Notch to Whitehouse Brook): Days 142-144"  
 author: lilian  
 comments: false  
+redirect_from: "/personal-blog/days-142-144-franconia-ridge-crawford-notch-to-whitehouse-brook/"
 categories: [ Hiking, AT 2017-2019, AT New Hampshire ]
 image: assets/blog_images/hiking/at_2017_2019/scrape/img-8970_orig.jpg
                   

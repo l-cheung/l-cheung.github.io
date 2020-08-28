@@ -3,6 +3,7 @@ layout: post
 title:  "Winding Stair Gap to Franklin, NC: Days 11-12"
 author: lilian
 comments: false
+redirect_from: "/personal-blog/days-11-12-winding-stair-gap-and-franklin-nc/"
 categories: [ Hiking, AT 2017-2019, AT North Carolina ]
 image: assets/blog_images/hiking/at_2017_2019/north_carolina_tennessee/day11-12/rhododendron.JPG
 

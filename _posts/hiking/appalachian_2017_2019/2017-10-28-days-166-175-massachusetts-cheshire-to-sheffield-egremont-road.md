@@ -3,6 +3,7 @@ layout: post
 title:  "Massachusetts (Cheshire to Sheffield Egremont Road): Days 166-175"  
 author: lilian  
 comments: false  
+redirect_from: "/personal-blog/days-166-175-massachusetts-cheshire-to-sheffield-egremont-road/"
 categories: [ Hiking, AT 2017-2019, AT Massachusetts ]
 image: assets/blog_images/hiking/at_2017_2019/scrape/img-9510_orig.jpg
                   

@@ -3,6 +3,7 @@ layout: post
 title:  "Harpers Ferry, WV to Pine Grove Furnace, PA: Days 84-90"  
 author: lilian  
 comments: false  
+redirect_from: "/personal-blog/days-84-90-harpers-ferry-wv-to-pine-grove-furnace-pa/"
 categories: [ Hiking, AT 2017-2019, AT West Virginia, AT Maryland, AT Pennsylvania ]    
 image: assets/blog_images/hiking/at_2017_2019/scrape/img-6719_orig.jpg
                   

@@ -3,6 +3,12 @@ layout: post
 title:  "Three Springs Hostel to Thunder Hill Shelter"  
 author: lilian  
 comments: false  
+redirect_from: 
+    - /personal-blog/day-21-three-springs-hostel/
+    - /personal-blog/day-22-brown-mountain-creek-shelter/
+    - /personal-blog/day-23-punchbowl-shelter/
+    - /personal-blog/day-24-matts-creek-shelter/
+    - /personal-blog/day-25-thunder-hill-shelter/
 categories: [Hiking, AT 2016 Virginia]
 image: assets/blog_images/hiking/at_2017_2019/scrape/img-2002.jpg
                   

@@ -3,6 +3,7 @@ layout: post
 title:  "The last of the Whites - The Kinsmen, Mt. Wolf, and Mt. Moosilauke (Eliza Brook Shelter to NH Route 25): Days 145-147"  
 author: lilian  
 comments: false  
+redirect_from: "/personal-blog/days-145-147-the-last-of-the-whites-the-kinsmen-mt-wolf-and-mt-moosilauke-eliza-brook-shelter-to-nh-route-25/"
 categories: [ Hiking, AT 2017-2019, AT New Hampshire ]  
 image: assets/blog_images/hiking/at_2017_2019/scrape/img-9070_orig.jpg
                   

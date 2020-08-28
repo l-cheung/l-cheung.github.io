@@ -3,6 +3,7 @@ layout: post
 title:  "Standing Bear Hostel to Jerry's Cabin Shelter: Days 24-27"
 author: lilian
 comments: false
+redirect_from: "/personal-blog/days-24-28-standing-bear-hostel-to-jerrys-cabin-shelter/"
 categories: [ Hiking, AT 2017-2019, AT North Carolina, AT Tennessee]
 image: assets/blog_images/hiking/at_2017_2019/north_carolina_tennessee/day24-28/IMG_5514.JPG
 

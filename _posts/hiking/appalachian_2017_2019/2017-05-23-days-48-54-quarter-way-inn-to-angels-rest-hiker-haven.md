@@ -3,6 +3,7 @@ layout: post
 title:  "Quarter Way Inn to Angel's Rest Hiker Haven: Days 48-54"  
 author: lilian  
 comments: false  
+redirect_from: "/personal-blog/days-48-54-quarter-way-inn-to-angels-rest-hiker-haven/"
 categories: [ Hiking, AT 2017-2019, AT Virginia]
 image: assets/blog_images/hiking/at_2017_2019/scrape/img-3912_orig.jpg       
 

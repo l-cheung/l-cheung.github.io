@@ -3,6 +3,7 @@ layout: post
 title:  "Pearisburg to Four Pines Hostel: Days 55-59"  
 author: lilian  
 comments: false  
+redirect_from: "/personal-blog/days-55-59-pearisburg-to-four-pines-hostel/"
 categories: [ Hiking, AT 2017-2019, AT Virginia ] 
 image: assets/blog_images/hiking/at_2017_2019/scrape/img-3945_orig.jpg
 
