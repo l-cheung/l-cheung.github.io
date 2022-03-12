@@ -6,4 +6,4 @@ comments: false
 
 ---
 
-Hi! I'm Lilian, a data engineer, former data scientist, and AT 2000-miler. This blog is migrated from Weebly and built using GitHub Pages + Jekyll.
+Hi! I'm Lilian. This blog is a series of trail journals from the Appalachian Trail, built using GitHub Pages + Jekyll.
