@@ -1,14 +1,6 @@
-# Lilian's Blog
+# Lilian's AT Blog
 ---
 
-Developed using the Mediumish Jekyll Theme
-
-
-# Mediumish - Jekyll Theme
----
-
-[Live Demo](https://wowthemesnet.github.io/mediumish-theme-jekyll/) &nbsp; | &nbsp; [Download](https://github.com/wowthemesnet/mediumish-theme-jekyll/archive/master.zip) &nbsp; | &nbsp; [Documentation](https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/)
-
-**Mediumish for Jekyll** is designed and developed by [Sal](https://www.wowthemes.net) and it is *free* under MIT license. 
+From 2016-2019, I wrote a series of blog posts on hiking the Appalachian Trail. These posts were originally hosted on Weebly. Later, I migrated the blog to GitHub Pages by automating the process of generating markdown posts with Python and Selenium. The GitHub Pages version was developed using the Mediumish Jekyll Theme. 
 
 [Mediumish repo](https://github.com/wowthemesnet/mediumish-theme-jekyll)
